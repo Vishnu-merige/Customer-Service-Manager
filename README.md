@@ -95,3 +95,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+     Data Format (stored in data.json):
+     {
+  "C001": {
+    "name": "Ravi Kumar",
+    "phone": "9876543210",
+    "services": [
+{
+"service": "AC Repair",
+"price": "1200"
+}
+]
+}
+}
+
